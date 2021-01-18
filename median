@@ -170,7 +170,7 @@ void printMedian(int A[], int size){
    delete left;
    delete right;
 }
-// Driver code
+
 int main(){
    int A[] = {5,15,1,3};
    int size = ARRAY_SIZE(A);
